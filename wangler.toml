@@ -1,0 +1,8 @@
+name = "crud"
+main = "index.js"
+compatibility_date = "2024-01-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "crud"
+database_id = "6e263fa8-698e-4430-9602-93e406a4d4f8"
